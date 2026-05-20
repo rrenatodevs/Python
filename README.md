@@ -22,8 +22,7 @@ E muito mais conforme o avanço no curso...
 
 📁 Estrutura do repositório
 /
-├── secao_01/        # Exercícios da seção 1
-├── secao_02/        # Exercícios da seção 2
+├── exercícios
 ├── ...
 └── README.md
 
